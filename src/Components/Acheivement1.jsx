@@ -88,15 +88,13 @@ const Acheivement1 = () => {
             >
               <div className="card-body">
                 <h5 className="card-title">
-                  NPTEl - The Joy Of Computing Using Python
+                Data Science Foundation Certification
                 </h5>
                 <p className="card-text">
-                  July 2023
+                  March 2024
                   <br /> <hr />
-                  Completed the NPTEL course "The Joy of Computing Using
-                  Python," gaining a solid foundation in Python programming.
-                  Learned various concepts such as algorithms, data structures,
-                  and problem-solving techniques.
+                  
+In the Data Science Foundation Certification course, I learned essential data analysis techniques, statistical methods, and data visualization skills. The course also covered fundamental concepts in machine learning and data-driven decision-making.
                 </p>
                 <button className="btn btn-outline-primary ">
                   View Certificate
