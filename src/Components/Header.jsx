@@ -10,7 +10,7 @@ function Header() {
           <ReactTyped
             className="typed-text"
             strings={[
-              "Data Science, Fullstack Development And Competative Programming Are My Trending Skills",
+              "Data Science, Fullstack Development And Competitive Programming Are My Trending Skills",
             ]}
             typeSpeed={80}
             backSpeed={40}

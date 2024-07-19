@@ -17,7 +17,7 @@ function About() {
           </div>
           <div className="col about-text text-light px-2">
             <div className="col ">
-            I am <small style={{fontSize:"1.2rem",fontWeight:"500",color:"orange"}}>Moses Padirolu</small>, currently pursuing a Bachelor of Education in
+            I am <small style={{fontSize:"1.2rem",fontWeight:"500",color:"orange"}}>Moses Padirolu</small>, currently pursuing a Bachelor of Engineering in
             Artificial Intelligence and Data Science at Chaitanya Bharathi
             Institute of Technology with a CGPA of 8.41/10. I am proficient in
             C, Python, Java, R, and various web technologies including HTML,
