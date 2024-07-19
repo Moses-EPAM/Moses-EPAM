@@ -21,9 +21,9 @@ const Projects1 = () => {
                   <br />
                   Developed a webpage using stream lit.
                 </p>
-                <a href="#" className="btn btn-outline-primary disabled" onclick="return false;">
+                <button className="btn btn-outline-primary disabled" onclick="return false;">
                   Live Demo
-                </a>
+                </button>
                 <a href="https://github.com/Moses-Padirolu/IrisClassification.git" className="btn btn-outline-primary mx-4">
                   Source Code
                 </a>
@@ -48,12 +48,12 @@ const Projects1 = () => {
                   Found out meaningfull insights and by using machine learning
                   algorithms predictions are made.
                 </p>
-                <a href="#" className="btn btn-outline-primary disabled" onclick="return false;">
+                <button className="btn btn-outline-primary disabled" onclick="return false;">
                   Live Demo
-                </a>
-                <a href="#" className="btn btn-outline-primary mx-4">
+                </button>
+                <button className="btn btn-outline-primary mx-4 disabled" onclick="return false">
                   Source Code
-                </a>
+                </button>
               </div>
             </div>
           </div>
@@ -76,9 +76,9 @@ const Projects1 = () => {
                   Applied linear regression to estimate unknown array sizes
                   based on time taken.
                 </p>
-                <a href="#" className="btn btn-outline-primary disabled" onclick="return false;">
+                <button className="btn btn-outline-primary disabled" onclick="return false;">
                   Live Demo
-                </a>
+                </button>
                 <a href="https://github.com/Moses-Padirolu/Time-Complexity-Of-Sorting-Algorithms.git" className="btn btn-outline-primary mx-4">
                   Source Code
                 </a>

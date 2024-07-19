@@ -21,10 +21,10 @@ const NewFile = () => {
             Developed a webpage , where we can perform add,update and
             delete operations on todo lists.
           </p>
-          <a href="#" className="btn btn-outline-primary disabled" onclick="return false;">
+          <button className="btn btn-outline-primary disabled" onclick="return false;">
             Live Demo
-          </a>
-          <a href="#" className="btn btn-outline-primary mx-4">
+          </button>
+          <a href="https://github.com/Moses-Padirolu/Crud-Operation.git" className="btn btn-outline-primary mx-4">
             Source Code
           </a>
         </div>
@@ -48,10 +48,10 @@ const NewFile = () => {
             By using machine learning algorithms sucessfully predicted
             house prices.
           </p>
-          <a href="#" className="btn btn-outline-primary disabled" onclick="return false;">
+          <button className="btn btn-outline-primary disabled" onclick="return false;">
             Live Demo
-          </a>
-          <a href="#" className="btn btn-outline-primary mx-4">
+          </button>
+          <a href="https://github.com/Moses-Padirolu/HousePricePridiction.git" className="btn btn-outline-primary mx-4">
             Source Code
           </a>
         </div>
@@ -76,10 +76,10 @@ const NewFile = () => {
             It taked inputs and shows weather registered sucessfully or
             not based on taking user's correct inputs.
           </p>
-          <a href="#" className="btn btn-outline-primary disabled" onclick="return false;">
+          <button className="btn btn-outline-primary disabled" onclick="return false;">
             Live Demo
-          </a>
-          <a href="#" className="btn btn-outline-primary mx-4">
+          </button>
+          <a href="https://github.com/Moses-Padirolu/RegistrationForm.git" className="btn btn-outline-primary mx-4">
             Source Code
           </a>
         </div>

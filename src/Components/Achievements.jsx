@@ -26,9 +26,9 @@ function Achievements() {
                   Developed a robust system to analyze and interpret emotional
                   tones in text data.
                 </p>
-                <a href="#" className="btn btn-outline-primary ">
+                <button className="btn btn-outline-primary ">
                   View Certificate
-                </a>
+                </button>
               </div>
             </div>
           </div>
@@ -48,9 +48,9 @@ function Achievements() {
                   my skills in front-end and back-end development using React,
                   Node.js, and MongoDB.
                 </p>
-                <a href="#" className="btn btn-outline-primary ">
+                <button className="btn btn-outline-primary ">
                   View Certificate
-                </a>
+                </button>
               </div>
             </div>
           </div>
@@ -73,9 +73,9 @@ function Achievements() {
                   event was organized by the CBIT Open-Source Community in
                   association with Title Sponsor and Co-Sponsor.
                 </p>
-                <a href="#" className="btn btn-outline-primary ">
+                <button className="btn btn-outline-primary ">
                   View Certificate
-                </a>
+                </button>
               </div>
             </div>
           </div>
@@ -95,9 +95,9 @@ function Achievements() {
                   Gained practical experience in implementing engineering
                   solutions and simulations.
                 </p>
-                <a href="#" className="btn btn-outline-primary ">
+                <button className="btn btn-outline-primary ">
                   View Certificate
-                </a>
+                </button>
               </div>
             </div>
           </div>

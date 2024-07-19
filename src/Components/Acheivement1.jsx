@@ -22,9 +22,9 @@ const Acheivement1 = () => {
                   Successfully completed coding challenges that covered key
                   concepts such as data structures, algorithms, and scripting.
                 </p>
-                <a href="#" className="btn btn-outline-primary ">
+                <button className="btn btn-outline-primary ">
                   View Certificate
-                </a>
+                </button>
               </div>
             </div>
           </div>
@@ -47,9 +47,9 @@ const Acheivement1 = () => {
                   Learned various concepts such as algorithms, data structures,
                   and problem-solving techniques.
                 </p>
-                <a href="#" className="btn btn-outline-primary ">
+                <button className="btn btn-outline-primary ">
                   View Certificate
-                </a>
+                </button>
               </div>
             </div>
           </div>
@@ -73,9 +73,9 @@ const Acheivement1 = () => {
                   and deployed full-stack web applications, enhancing my
                   proficiency in modern web development.
                 </p>
-                <a href="#" className="btn btn-outline-primary ">
+                <button className="btn btn-outline-primary ">
                   View Certificate
-                </a>
+                </button>
               </div>
             </div>
           </div>
@@ -98,9 +98,9 @@ const Acheivement1 = () => {
                   Learned various concepts such as algorithms, data structures,
                   and problem-solving techniques.
                 </p>
-                <a href="#" className="btn btn-outline-primary ">
+                <button className="btn btn-outline-primary ">
                   View Certificate
-                </a>
+                </button>
               </div>
             </div>
           </div>

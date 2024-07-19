@@ -1,8 +1,6 @@
 import React from "react";
-import { useNavigate } from "react-router";
 
 function About() {
-  const navigate = useNavigate()
   return (
     <>
       <section  className="container about-container my-5" id="about">

@@ -48,9 +48,9 @@ function Projects() {
                   <br />
                   It's a cloned website of cbit original home page.
                 </p>
-                <a href="#" className="btn btn-outline-primary disabled" onclick="return false;">
+                <button  className="btn btn-outline-primary disabled" onclick="return false;">
                   Live Demo
-                </a>
+                </button>
                 <a href="https://github.com/Moses-Padirolu/CBIT-website.git" className="btn btn-outline-primary mx-4">
                   Source Code
                 </a>
@@ -79,7 +79,7 @@ function Projects() {
                 <a href="https://github.com/Moses-Padirolu/MoviesGallery.git" className="btn btn-outline-primary disabled" onclick="return false;">
                   Live Demo
                 </a>
-                <a href="#" className="btn btn-outline-primary mx-4">
+                <a href="https://github.com/Moses-Padirolu/MoviesGallery.git" className="btn btn-outline-primary mx-4">
                   Source Code
                 </a>
               </div>
