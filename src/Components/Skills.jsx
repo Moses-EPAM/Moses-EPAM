@@ -9,7 +9,7 @@ function Skills() {
         </div>
         <div className="row pb-3">
           <div className="row">
-            <div className="col skills-container  mx-3 my-3">
+            <div className="col-md skills-container  mx-3 my-3">
               <div className="skill-heading py-3">FullStack Development</div>
               <div className="row">
                 <div className="col">
@@ -28,7 +28,7 @@ function Skills() {
                 </div>
               </div>
             </div>
-            <div className="col skills-container  mx-3 my-3">
+            <div className="col-md skills-container mx-3 my-3">
               <div className="skill-heading py-3">Data Science</div>
               <div className="row">
                 <div className="col">
@@ -52,7 +52,7 @@ function Skills() {
           </div>
 
           <div className="row pb-3">
-            <div className="col skills-container mx-3 my-3">
+            <div className="col-md skills-container mx-3 my-3">
               <div className="skill-heading py-3">Programming</div>
               <div className="row">
                 <div className="col">
@@ -70,7 +70,7 @@ function Skills() {
                 </div>
               </div>
             </div>
-            <div className="col skills-container  mx-3 my-3">
+            <div className="col-md skills-container  mx-3 my-3">
               <div className="skill-heading py-3">Tools & Libraries</div>
               <div className="row">
                 <div className="col">
