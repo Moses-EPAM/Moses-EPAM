@@ -20,7 +20,7 @@ function Skills() {
                   <div className="skils-text">Reactjs</div>
                 </div>
                 <div className="col">
-                  <div className="skils-text">Mongobd</div>
+                  <div className="skils-text">Mongodb</div>
                   <div className="skils-text">Express Js</div>
                   <div className="skils-text">Node Js</div>
                   <div className="skils-text">Tailwind CSS</div>
