@@ -12,7 +12,7 @@ function Skills() {
             <div className="col-md skills-container my-3">
               <div className="skill-heading py-3">FullStack Development</div>
               <div className="row">
-                <div className="col">
+                <div className="col ">
                   <div className="skils-text">HTMl</div>
                   <div className="skils-text">CSS</div>
                   <div className="skils-text">JavaScript</div>

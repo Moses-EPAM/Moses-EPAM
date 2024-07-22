@@ -78,8 +78,8 @@ function Contact() {
                         placeholder="Enter Your Email"
                         required
                       />
-                      <small id="emailHelp" className="form-text text-success ">
-                        We'll never share your email with anyone else.
+                      <small id="emailHelp" className="form-text text-secondary ">
+                        I'll never share your email with anyone else.
                       </small>
                     </div>
                     <div className="form-group  my-3">

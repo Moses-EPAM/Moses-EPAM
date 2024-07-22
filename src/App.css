@@ -46,11 +46,13 @@ body {
 .about-container{
     position:relative;
     background-color: rgb(0, 0, 0); 
+    box-shadow: 1px 1px 8px white;
 }
 
 .about-container:hover{
-    border-radius: 5%;
-    background-color: rgba(46, 24, 24, 0.6);
+    border-radius: 10px;
+    /* background-color: rgba(46, 24, 24, 0.6); */
+    background-color: rgb(0, 0, 0,0.5);
 }
 
 .head{
@@ -74,6 +76,8 @@ body {
     margin-top: 5vh;
     border-radius: 50%;
     height: 40vh; /* Adjust as needed */
+    /* box-shadow: 1px 1px 7px  rgb(255, 255, 255); */
+    filter: drop-shadow(1px 1px 6px rgb(255, 255, 255));
   }
 
  .about-text{
@@ -82,11 +86,6 @@ body {
     margin-right: 1rem;
  }
   
- .skills-container{
-    position:relative;
-    background-color: rgb(0, 0, 0); 
-}
-
 .skill-heading{
     color:white;
     text-align: center;
@@ -104,17 +103,18 @@ body {
 
 .skills-container{
     position:relative;
-    background-color:rgba(0, 0, 0, 0.9);
-    margin-right: 1rem;
-    margin-left: 0.8rem;
+    background-color:rgba(0, 0, 0);
+    margin-left: 0.5rem;
+    
+    box-shadow: 1px 1px 5px white;
     /* background-color: rgba(46, 24, 24, 0.6); */
 }
 
 .skills-container:hover{
     border-radius: 10px;
-    border: 0.0008rem solid rgb(219, 95, 95);
-    background-color: rgba(46, 24, 24, 0.9);
+    background-color: rgb(0, 0, 0,0.5);
 }
+
 
 .experience-container{
     background-color: rgb(0, 0, 0,0.8);
@@ -138,8 +138,9 @@ body {
 }
 
 .project-card:hover{
-    border-radius: 5%;
-    background-color: rgba(46, 24, 24, 0.9) !important;
+    border-radius: 10px;
+    background-color: rgba(0, 0, 0, 0.1) !important;
+    box-shadow: 1px 1px 5px white;
 }
 
 .achievements-card{
