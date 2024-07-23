@@ -1,4 +1,10 @@
 import React from "react";
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import {
+  faGithub,
+  faLinkedin,
+  faInstagram,
+} from "@fortawesome/free-brands-svg-icons";
 
 function About() {
   return (
@@ -44,13 +50,33 @@ function About() {
               achieved notable success in both.
               <br />
             </div>
+            
+            
+      
+
             <div className="col pt-3">
-              <a href="/#contact">
-                <div className="btn btn-outline-primary">Let's Talk</div>
-              </a>
-            </div>
+  <div className="row">
+    <div className="col-4">
+      <a href="/#contact">
+        <div className="btn btn-outline-primary">Let's Talk</div>
+      </a>
+    </div>
+    <div className="col" style={{ display: "flex", alignItems: "center", gap: "20px" }}>
+      <a href="https://github.com/Moses-Padirolu?tab=repositories" alt="icon">
+        <FontAwesomeIcon icon={faGithub} className="material-icons github-icon" />
+      </a>
+      <a href="https://www.linkedin.com/in/moses-padirolu-691a80258/" alt="icon">
+        <FontAwesomeIcon icon={faLinkedin} className="material-icons linkedin-icon" />
+      </a>
+      <a href="https://www.instagram.com/moses_q8_007/" alt="icon">
+        <FontAwesomeIcon icon={faInstagram} className="material-icons instagram-icon" />
+      </a>
+    </div>
+  </div>
+</div>
+</div>
           </div>
-        </div>
+        
       </section>
     </>
   );

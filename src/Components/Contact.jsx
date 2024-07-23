@@ -2,12 +2,12 @@ import React from "react";
 import { useRef } from "react";
 import emailjs from "@emailjs/browser";
 import { toast } from "react-hot-toast";
-import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import {
-  faGithub,
-  faLinkedin,
-  faInstagram,
-} from "@fortawesome/free-brands-svg-icons";
+// import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+// import {
+//   faGithub,
+//   faLinkedin,
+//   faInstagram,
+// } from "@fortawesome/free-brands-svg-icons";
 
 function Contact() {
   const form = useRef();
@@ -52,11 +52,11 @@ function Contact() {
               <div
                 className="card contact-card "
                 style={{
-                  backgroundColor: "rgba(46, 24, 24, 0.9)",
-                  // marginLeft: "2rem",
+                  backgroundColor:"black",
                   maxWidth: "600px",
                   width: "100%",
                   marginLeft: "1rem",
+                  boxShadow: "1px 1px 20px 0 rgba(255, 255, 255, 0.4)", // Add this line for the box shadow
                 }}
               >
                 <div class="card-body">
@@ -105,7 +105,7 @@ function Contact() {
             </div>
           </div>
 
-          <div className="row ">
+          {/* <div className="row ">
             <div className="col project-col p-1">
               <div
                 className="card contact-card "
@@ -142,7 +142,7 @@ function Contact() {
                 </div>
               </div>
             </div>
-          </div>
+          </div> */}
         </div>
       </section>
     </>
