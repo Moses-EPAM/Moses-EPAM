@@ -14,7 +14,7 @@ function Experience() {
         <VerticalTimeline lineColor="white">
           <VerticalTimelineElement
             contentStyle={{
-              background: "rgba(46, 24, 24, 0.6)",
+              background: "rgba(0, 0, 0)",
               color: "white",
             }}
           >
@@ -28,7 +28,7 @@ function Experience() {
           </VerticalTimelineElement>
           <VerticalTimelineElement
             contentStyle={{
-              background: "rgba(46, 24, 24, 0.6)",
+              background: "rgba(0, 0, 0)",
               color: "white",
             }}
           >
@@ -41,7 +41,7 @@ function Experience() {
           </VerticalTimelineElement>
           <VerticalTimelineElement
             contentStyle={{
-              background: "rgba(46, 24, 24, 0.6)",
+              background: "rgba(0, 0, 0)",
               color: "white",
             }}
           >
@@ -56,7 +56,7 @@ function Experience() {
 
           <VerticalTimelineElement
             contentStyle={{
-              background: "rgba(46, 24, 24, 0.6)",
+              background: "rgba(0, 0, 0)",
               color: "white",
             }}
           >
@@ -71,7 +71,7 @@ function Experience() {
           </VerticalTimelineElement>
           <VerticalTimelineElement
             contentStyle={{
-              background: "rgba(46, 24, 24, 0.6)",
+              background: "rgba(0, 0, 0)",
               color: "white",
             }}
           >

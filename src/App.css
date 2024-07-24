@@ -105,7 +105,7 @@ body {
     position:relative;
     background-color:rgba(0, 0, 0);
     margin-left: 0.6rem;
-    box-shadow: 0px 0px 7px white;
+    box-shadow: 0px 0px 4px white;
 }
 
 .skills-container:hover{
@@ -145,10 +145,11 @@ body {
     font-size: 0.9rem;
     color:rgb(255, 255, 255) !important;
     background-color: rgba(0, 0, 0, 0.9) !important;
+    box-shadow: 0px 0px 3px white;
 }
 
 .achievements-card:hover{
-    background-color: rgba(46, 24, 24, 0.9) !important;
+    background-color: rgba(0, 0, 0, 0.8) !important;
 }
 
 .contact-form-row{

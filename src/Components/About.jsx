@@ -15,7 +15,8 @@ function About() {
           <div className="col">About Me</div>
         </div>
         <div className="row pb-3">
-          <div className="col my-image-container m-2">
+          <div className="col my-image-container m-2" data-aos="flip-left"
+     data-aos-duration="2000">
             <img
               className="my-image"
               src={image}

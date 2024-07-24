@@ -1,5 +1,6 @@
 import React from 'react';
 import './App.css'; 
+import "aos/dist/aos.css";
 import "bootstrap/dist/css/bootstrap.min.css";
 import ParticlesComponent from './Components/particles';
 import Header from './Components/Header';
