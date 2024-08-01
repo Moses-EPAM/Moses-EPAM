@@ -76,13 +76,13 @@ function Skills() {
                 <div className="col">
                   <div className="skils-text pl-1">Git & GitHub</div>
                   <div className="skils-text">VS code</div>
-                  <div className="skils-text">IntelJ</div>
+                  <div className="skils-text">Intellij</div>
                   <div className="skils-text">PyCharm</div>
                   <div className="skils-text">Atom</div>
                 </div>
                 <div className="col">
-                  <div className="skils-text pl-1">Sciket Learn</div>
-                  <div className="skils-text">Mathplotlib</div>
+                  <div className="skils-text pl-1">Scikit-Learn</div>
+                  <div className="skils-text">Matplotlib</div>
                   <div className="skils-text">Python GUI</div>
                   <div className="skils-text">Numpy</div>
                   <div className="skils-text">Pandas</div>
