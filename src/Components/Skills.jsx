@@ -76,7 +76,7 @@ function Skills() {
                 <div className="col">
                   <div className="skils-text pl-1">Git & GitHub</div>
                   <div className="skils-text">VS code</div>
-                  <div className="skils-text">Intellij</div>
+                  <div className="skils-text">Jupiter</div>
                   <div className="skils-text">PyCharm</div>
                   <div className="skils-text">Atom</div>
                 </div>
