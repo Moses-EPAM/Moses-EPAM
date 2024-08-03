@@ -1,5 +1,5 @@
 import React from "react";
-import image from "./image.png"
+import image from "./image.png";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import {
   faGithub,
@@ -15,8 +15,11 @@ function About() {
           <div className="col">About Me</div>
         </div>
         <div className="row pb-3">
-          <div className="col my-image-container m-2" data-aos="flip-left"
-     data-aos-duration="2000">
+          <div
+            className="col my-image-container m-2"
+            data-aos="flip-left"
+            data-aos-duration="2000"
+          >
             <img
               className="my-image"
               src={image}
@@ -53,33 +56,54 @@ function About() {
               achieved notable success in both.
               <br />
             </div>
-            
-            
-      
 
             <div className="col pt-3">
-  <div className="row">
-    <div className="col-4">
-      <a href="/#contact">
-        <div className="btn btn-outline-primary">Let's Talk</div>
-      </a>
+              <div className="row">
+                <div className="col-4 ">
+                  <a href="/#contact">
+                    <div className="btn btn-outline-primary">Let's Talk</div>
+                  </a>
+                </div>
+                <div
+                  className="col"
+                  style={{ display: "flex", alignItems: "center", gap: "20px" }}
+                >
+                  <a
+                    href="https://github.com/Moses-Padirolu"
+                    alt="icon"
+                  >
+                    <FontAwesomeIcon
+                      icon={faGithub}
+                      className="material-icons github-icon"
+                    />
+                  </a>
+                  <a
+                    href="https://www.linkedin.com/in/moses-padirolu-691a80258/"
+                    alt="icon"
+                  >
+                    <FontAwesomeIcon
+                      icon={faLinkedin}
+                      className="material-icons linkedin-icon"
+                    />
+                  </a>
+                  <a href="https://www.instagram.com/moses_q8_007/" alt="icon">
+                    <FontAwesomeIcon
+                      icon={faInstagram}
+                      className="material-icons instagram-icon"
+                    />
+                  </a>
+                  <div className="row">
+        <div className="col"
+                  style={{marginBottom:"4px"}}>
+        <img src="https://visitor-badge.laobi.icu/badge?page_id=mosesportfoliio.netlify.app&left_color=black&right_color=black&left_text=Profile%20Views" alt="icon"/>
     </div>
-    <div className="col" style={{ display: "flex", alignItems: "center", gap: "20px" }}>
-      <a href="https://github.com/Moses-Padirolu?tab=repositories" alt="icon">
-        <FontAwesomeIcon icon={faGithub} className="material-icons github-icon" />
-      </a>
-      <a href="https://www.linkedin.com/in/moses-padirolu-691a80258/" alt="icon">
-        <FontAwesomeIcon icon={faLinkedin} className="material-icons linkedin-icon" />
-      </a>
-      <a href="https://www.instagram.com/moses_q8_007/" alt="icon">
-        <FontAwesomeIcon icon={faInstagram} className="material-icons instagram-icon" />
-      </a>
-    </div>
-  </div>
-</div>
-</div>
+        </div>
+                </div>
+                
+              </div>
+            </div>
           </div>
-        
+        </div>
       </section>
     </>
   );
