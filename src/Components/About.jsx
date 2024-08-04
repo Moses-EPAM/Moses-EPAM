@@ -59,7 +59,7 @@ function About() {
 
             <div className="col pt-3">
               <div className="row">
-                <div className="col-4 ">
+                <div className="col-4 my-2">
                   <a href="/#contact">
                     <div className="btn btn-outline-primary">Let's Talk</div>
                   </a>
