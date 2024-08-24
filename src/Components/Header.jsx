@@ -18,7 +18,7 @@ function Header() {
             loop
           />
           <div className="row mt-3">
-            <a href="https://drive.google.com/file/d/1kX6CxGian7Wa8kRn4tt4380sd0Ge2wia/view?usp=sharing" alt="icon">
+            <a href="https://drive.google.com/file/d/1lmGkaGwEWwO_HAT05FU4Q1B9w9PIjLqR/view?usp=sharing" alt="icon">
             <div className="btn btn-outline-success">
               Download CV 
             </div>
