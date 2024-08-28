@@ -30,7 +30,7 @@ function Contact() {
           }
         );
       toast.success("message sent successfully", {
-        position: "bottom-right",
+        position: "top-right",
       });
     } catch (error) {
       console.log(error);
